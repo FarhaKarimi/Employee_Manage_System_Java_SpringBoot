@@ -12,7 +12,7 @@ Technologies Used
 Java: Programming language.
 Spring Boot: Framework for building the application.
 Spring Data JPA: For data access and manipulation.
-MySQL: Database to store employee records.
+postgresql : Database to store employee records.
 Postman: For API testing.
 Maven: For project management and dependency management.
 Prerequisites
