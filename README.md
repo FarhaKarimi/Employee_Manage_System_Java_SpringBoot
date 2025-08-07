@@ -17,14 +17,12 @@ Postman: For API testing.
 Maven: For project management and dependency management.
 Prerequisites
 JDK 11 or higher
-MySQL Server
+postgresql Server
 Maven
 Installation
 Clone the Repository
-
-git clone https://github.com/masaliswapna/employee-management-system.git
 cd employee-management-system
-Configure MySQL Database
+Configure pstgrsql Database
 
 Create a database named employee_management_db.
 Update the application.properties file with your Pstgrsql credentials:
